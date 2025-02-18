@@ -1,12 +1,31 @@
-####This is a test repo for the purpose of learning laravel and will not be maintained long term.
+#### This is a test repo for the purpose of learning laravel and will not be maintained long term.
 
-The documentation used to start this app is found at <a href="https://laravel.com/docs/11.x/installation> laravel docs</a> or in spanish at <a href="https://documentacionlaravel.com/docs/11.x"> documentacion Laravel</a>
+The documentation used to start this app is found at <a href="https://laravel.com/docs/11.x/installation"> laravel docs</a> or in spanish at <a href="https://documentacionlaravel.com/docs/11.x"> documentacion Laravel</a>
+
+The goals for this project are as follows
+- [ ] allow people to sign up as users in order to use the application.
+- [ ] stop non users from accessing the rest of the app using authentication.
+- [ ] allow users to add each other as friends.
+- [ ] allow friends to send messages to each other that get stored in a DB
+- [ ] have messages appear in real time, both sending and recieving.
+- [ ] allow users to create groups with multiple friends to share messages together.
+- [ ] allow users to see when their friend is actively typing a message.
+- [ ] open a tunnel in order to share this app for test purposes.
+
+## Notes
+Minimal css styling is expected for this project, only enough to make it usable.
+The integration of svelte for the front end is expected for this project.
+clean or maintainable code is not expected for this project.q
+
+ 
 
 
-
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
