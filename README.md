@@ -1,3 +1,13 @@
+####This is a test repo for the purpose of learning laravel and will not be maintained long term.
+
+The documentation used to start this app is found at <a href="https://laravel.com/docs/11.x/installation> laravel docs</a> or in spanish at <a href="https://documentacionlaravel.com/docs/11.x"> documentacion Laravel</a>
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
